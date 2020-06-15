@@ -2,8 +2,8 @@
 
 session_start(); //Inicia uma nova sessão ou resume uma sessão existente
 //dados de acesso ao banco
-$local = "10.85.128.3";
-$usuario_BD = "root";
+$local = "34.95.220.141";
+$usuario_BD = "mysqlprojeto";
 $senha_BD = "1vdwsGhkOhkmhnAx";
 $base = "bprojeto";
 
