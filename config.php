@@ -2,7 +2,7 @@
 
 session_start(); //Inicia uma nova sessão ou resume uma sessão existente
 //dados de acesso ao banco
-$local = "34.95.177.219";
+$local = "10.158.0.2";
 $usuario_BD = "root";
 $senha_BD = "root";
 $base = "bprojeto";
